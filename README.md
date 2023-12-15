@@ -19,9 +19,10 @@
 <div align="center">
   <img width="200" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2MTEwNzgsIm5iZiI6MTcwMjYxMDc3OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE1VDAzMjYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0NTliMGRmNjQyZDY2ODIxN2M0NmQ1M2I0ZGE2NTE5Y2E5NGE5YzFlOTcyN2QzMmYzODVhM2E1Y2U5ZGUyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jbYSeY-qTq8qt2jBu9xEo-7IJeyvDZ6cNPY_lVVU89Q"> 
 <br><br>
+  
 <a href="https://github.com/pedroamcerto" target="_blank" rel="noreferrer">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=pedroamcerto&show_icons=true&theme=shades-of-purple&hide_border=true">
-  <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamcerto&layout=compact&theme=shades-of-purple&hide_border=true">
+  <img width="340" src="https://github-readme-stats.vercel.app/api?username=pedroamcerto&show_icons=true&theme=shades-of-purple&hide_border=true">
+  <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamcerto&layout=compact&theme=shades-of-purple&hide_border=true">
 </a>
 
 <br><br>
