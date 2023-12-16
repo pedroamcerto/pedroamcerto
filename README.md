@@ -17,8 +17,7 @@
 ### <img width="25" src="https://media.giphy.com/media/RMR2YEaUQetgZCMbIu/giphy.gif"> **GitHub Status** 
 <br>
 <div align="center">
-  <img width="200" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2MTI4MjUsIm5iZiI6MTcwMjYxMjUyNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE1VDAzNTUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1ZDVlMWYyYmE1ZTE2MDMzNGUyNDkyMmFjNTYzODYzNDUyOTQyODRmMjQxODU0ZDkzZTdmYmE5YjQzMzhjM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FnfTbl6-7KfzGBM4JprPJvdm-LvNSL7p3EvY1Om_yrg"> 
-<br><br>
+<br>
   
 <a href="https://github.com/pedroamcerto" target="_blank" rel="noreferrer">
   <img width="340" src="https://github-readme-stats.vercel.app/api?username=pedroamcerto&show_icons=true&theme=shades-of-purple&hide_border=true">
