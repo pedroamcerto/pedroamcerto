@@ -51,6 +51,34 @@
 <br>
 <!------------------------------------------------------------------- ** SKILLS ** --------------------------------------------------------------------------------------->
 
+#
+### <img width=25 src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> Skills
+<br>
+
+- 💻 Programming Languages <br><br>
+
+  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python)](https://skillicons.dev)
+<br>
+
+- 🧱 Frameworks <br><br>
+
+  [![Frameworks](https://skillicons.dev/icons?i=spring,react,selenium,flask,fastapi)](https://skillicons.dev)
+<br>
+
+- 📄 Databases <br><br>
+
+  [![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<br>
+
+- ☁ Cloud <br><br>
+
+  [![Cloud](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+<br>
+
+- 🛠 Tools, IDEs & others <br><br>
+
+  [![Tools and IDE's](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,html,css,git,arduino)](https://skillicons.dev)
+
 <!------------------------------------------------------------- ** CERTIFICATIONS ** ------------------------------------------------------------------------------------->
 #
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> **Certifications**
