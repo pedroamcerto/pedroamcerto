@@ -4,7 +4,7 @@
 
 - :computer: I'm learning more about Artificial Intelligence and Spring Boot.
 - :school: Software Engineering - FIAP (Faculdade de Informática e Administração Paulista
-- :clock1: I'm 17 years old.
+- :clock1: I'm 18 years old.
 
 <br>
 
@@ -92,3 +92,5 @@
   <img width="100" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
 </a>
 
+
+# Last Update: 02/2024
