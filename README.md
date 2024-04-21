@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I am Pedro Certo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /></h1>
 
-- :computer: I'm learning more about Artificial Intelligence and Spring Boot.
+- :computer: I'm learning more about Artificial Intelligence and Backstage (Spotify)
 - :school: Software Engineering - FIAP (Faculdade de Informática e Administração Paulista)
 - :clock1: I'm 18 years old.
 
