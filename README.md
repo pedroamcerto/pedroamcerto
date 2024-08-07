@@ -57,7 +57,7 @@
 
 - 💻 Programming Languages <br><br>
 
-  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python,cpp)](https://skillicons.dev)
+  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python,cpp,typescript)](https://skillicons.dev)
 <br>
 
 - 🧱 Frameworks <br><br>
@@ -77,7 +77,7 @@
 
 - 🛠 Tools, IDEs & others <br><br>
 
-  [![Tools and IDE's](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,html,css,git,arduino)](https://skillicons.dev)
+  [![Tools and IDE's](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,html,css,git,arduino,linux)](https://skillicons.dev)
 
 <!------------------------------------------------------------- ** CERTIFICATIONS ** ------------------------------------------------------------------------------------->
 #
