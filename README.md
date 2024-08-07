@@ -57,12 +57,12 @@
 
 - 💻 Programming Languages <br><br>
 
-  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python)](https://skillicons.dev)
+  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python,cpp)](https://skillicons.dev)
 <br>
 
 - 🧱 Frameworks <br><br>
 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,react,selenium,flask,fastapi)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=spring,react,angular,selenium,flask,fastapi)](https://skillicons.dev)
 <br>
 
 - 📄 Databases <br><br>
@@ -85,12 +85,18 @@
 
 <br>
 
-<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/bbca3f72c8faffa7">
-  <img width="100"src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-</a>  
 <a href="https://www.credly.com/badges/31babe9b-4408-442f-a304-4f86b54b378b/public_url">
   <img width="100" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
 </a>
+<a href="https://www.credly.com/badges/15634cab-df9a-46e5-8a23-6f5debe7cbee/public_url">
+  <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/bbca3f72c8faffa7">
+  <img width="100"src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/3ad757437f9afe7f?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+  <img width="100"src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+</a>
 
 
-# Last Update: 04/2024
+# Last Update: 08/2024
