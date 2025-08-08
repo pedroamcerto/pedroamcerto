@@ -16,7 +16,7 @@
 ### Contact me!
 
 <a href="https://www.linkedin.com/in/pedro-certo-3aa40123a" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin"/>
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin"/>
 </a>
 <a href="mailto:pedromartins036@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
