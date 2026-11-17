@@ -43,14 +43,17 @@ certificações: 4x cloud (AWS + Microsoft Azure, incl. Azure AI Fundamentals)
 
 <div align="center">
 
-**AI & Dados**
+**AI Tools & LLMs**
 
-<img src="https://skillicons.dev/icons?i=python,opencv,fastapi,flask&perline=10" />
-<br/>
-<img src="https://img.shields.io/badge/LLMs-ff1e3c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-ff1e3c?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-ff1e3c?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20AI-ff1e3c?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,claudecode,chatgpt,gemini,deepseek,mistral,cursor,githubcopilot,n8n&perline=10" />
+
+**AI Engineering & ML**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,huggingface,ollama,opencv,pytorch,tensorflow,sklearn&perline=10" />
+
+**Dados**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,numpy,pandas,fastapi,flask&perline=10" />
 
 **Linguagens**
 
@@ -80,8 +83,10 @@ certificações: 4x cloud (AWS + Microsoft Azure, incl. Azure AI Fundamentals)
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| 🛍️ [**MYL — Make Your Life**](https://makeyourlife.com.br/) | Loja online de roupas da marca dos influenciadores **Bergon** e **Kenzo Leote**. Projeto real, no ar e vendendo | E-commerce · Nuvemshop |
 | ⚡ [**Quorum**](https://github.com/pedroamcerto/quorum-mobile) | Usina virtual de energia: prevê o pico das 18h30 e coordena baterias, carregadores e ar-condicionado do comércio de bairro pra evitar multa na conta de luz. *Global Solution FIAP 2026* | TypeScript · React Native · SQLite |
 | 🅿️ [**Detector de Vagas**](https://github.com/pedroamcerto/detector-de-vagas-estacionamento) | Visão computacional que detecta vagas livres de estacionamento em vídeo | Python · OpenCV |
+| 🃏 [**Pode ou Não Pode?**](https://pode-ou-nao-pode-omega.vercel.app) | Jogo de cartas multiplayer pra grupos: cada pessoa vota no próprio celular, com sala por QR code e votos anônimos. Um único `index.html`, sem backend, P2P entre os aparelhos ([código](https://github.com/pedroamcerto/pode-ou-nao-pode)) | JavaScript · WebRTC · PeerJS · Vercel |
 | 📡 [**Aurawave**](https://github.com/pedroamcerto/aurawave-service) | Gestão de materiais de laboratório em tempo real com RFID e sensores. Serviço principal + [reader](https://github.com/pedroamcerto/aurawave-reader), [writer](https://github.com/pedroamcerto/aurawave-writer) e [door](https://github.com/pedroamcerto/aurawave-door) em Python | Java · Spring · Python · IoT |
 | 🎓 [**NewHorizon**](https://github.com/pedroamcerto/newHorizon-service) | API de trilhas de aprendizagem e competências do futuro, alinhada aos ODS 4 e 8 da ONU | Java · Spring Boot |
 | 🐝 [**Hive**](https://github.com/pedroamcerto/hive-service) | Serviço back-end do projeto Hive | Java · Spring Boot |
