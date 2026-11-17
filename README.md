@@ -1,102 +1,120 @@
-<!-- ** INTRODUCTION ** -->
+<!-- ============================== HEADER ============================== -->
 
-<h1 align="center">Hi, I am Pedro Certo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /></h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:ff1e3c&height=200&section=header&text=Pedro%20Certo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Fullstack&descAlignY=60&descSize=18&animation=fadeIn" />
 
-- :computer: I'm learning more about Data Science & Data Engineering
-- :school: Software Engineering - FIAP (Faculdade de Informática e Administração Paulista)
-- :clock1: I'm 19 years old.
-
-<br>
-
-<a href="https://www.github.com/pedroamcerto" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pedroamcerto?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-
-<!---------------------------------------------------------------- ** CONTACT ** --------------------------------------------------------------------------------------->
-
-### Contact me!
-
-<a href="https://www.linkedin.com/in/pedro-certo-3aa40123a" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin"/>
-</a>
-<a href="mailto:pedromartins036@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!------------------------------------------------------------- ** GITHUB STATS ** ------------------------------------------------------------------------------------->
-
-#
-### <img width="25" src="https://media.giphy.com/media/RMR2YEaUQetgZCMbIu/giphy.gif"> **GitHub Status** 
-<br>
 <div align="center">
 
-<img width=200 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  
-<br>
-  
-<a href="https://github.com/pedroamcerto" target="_blank" rel="noreferrer">
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=pedroamcerto&show_icons=true&theme=dark&hide_border=true">
-  <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamcerto&layout=compact&theme=dark&hide_border=true">
-  <div align="center">
-    <br>
-    <a href="https://github.com/pedroamcerto"><img width="5000" src="https://pa1.aminoapps.com/7630/4bbedc9885d9a65c1fbce930953f96d2b791c289r1-320-1_hq.gif"></a>
-    <br><br>
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroamcerto&theme=dark&hide_border=true">
-  </div>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF1E3C&center=true&vCenter=true&width=640&lines=Software+Engineer+%26+AI+Engineer;Integrando+LLMs+e+agentes+em+produtos+reais;Fullstack%3A+do+back-end+ao+front;4x+certificado+em+cloud+(AWS+%2B+Azure);Vis%C3%A3o+computacional+com+Python+%26+OpenCV" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<a href="https://www.linkedin.com/in/pedro-certo-3aa40123a"><img src="https://img.shields.io/badge/LinkedIn-ff1e3c?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pedromartins036@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff1e3c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=pedroamcerto&style=for-the-badge&color=ff1e3c&label=VISITAS" />
+<a href="https://github.com/pedroamcerto?tab=followers"><img src="https://img.shields.io/github/followers/pedroamcerto?style=for-the-badge&logo=github&color=171717&labelColor=ff1e3c" /></a>
 
 </div>
 
-<br>
-<!------------------------------------------------------------------- ** SKILLS ** --------------------------------------------------------------------------------------->
+<!-- ============================== SOBRE ============================== -->
 
-#
-### <img width=25 src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> Skills
-<br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="28" /> Sobre mim
 
-- 💻 Programming Languages <br><br>
+```yaml
+nome:          Pedro Certo
+cargo:         Software Engineer · AI Engineer
+local:         São Paulo, BR
+trabalho:      Tivit
+formação:      Engenharia de Software @ FIAP
+foco:          [AI engineering, LLMs & agentes, fullstack, cloud]
+certificações: 4x cloud (AWS + Microsoft Azure, incl. Azure AI Fundamentals)
+```
 
-  [![Programming Languages](https://skillicons.dev/icons?i=js,java,python,cpp,typescript)](https://skillicons.dev)
-<br>
+- 🧠 Construo software com **IA no centro**: LLMs, agentes, RAG e visão computacional levados para produção
+- 🛠️ **Fullstack**: APIs robustas em **Java + Spring Boot** e **Python (FastAPI)**, interfaces em **React + TypeScript**
+- ☁️ Arquitetura **cloud-native** na AWS e Azure, do serviço até o deploy
+- 📈 Gosto de problemas reais: previsão de demanda de energia, IoT com RFID, detecção de vagas por vídeo
+- 🌱 Acompanhe meu progresso por aqui!
 
-- 🧱 Frameworks <br><br>
+<!-- ============================== STACK ============================== -->
 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,react,angular,selenium,flask,fastapi)](https://skillicons.dev)
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="28" /> Tech Stack
 
-- 📄 Databases <br><br>
+<div align="center">
 
-  [![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-<br>
+**AI & Dados**
 
-- ☁ Cloud <br><br>
+<img src="https://skillicons.dev/icons?i=python,opencv,fastapi,flask&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/LLMs-ff1e3c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-ff1e3c?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-ff1e3c?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20AI-ff1e3c?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-  [![Cloud](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-<br>
+**Linguagens**
 
-- 🛠 Tools, IDEs & others <br><br>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp&perline=10" />
 
-  [![Tools and IDE's](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,html,css,git,arduino,linux)](https://skillicons.dev)
+**Back-end**
 
-<!------------------------------------------------------------- ** CERTIFICATIONS ** ------------------------------------------------------------------------------------->
-#
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> **Certifications**
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,maven,postman&perline=10" />
 
-<br>
+**Front-end**
 
-<a href="https://www.credly.com/badges/15634cab-df9a-46e5-8a23-6f5debe7cbee/public_url">
-  <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
-</a>
-<a href="https://www.credly.com/badges/31babe9b-4408-442f-a304-4f86b54b378b/public_url">
-  <img width="100" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
-</a>
-<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/bbca3f72c8faffa7">
-  <img width="100"src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-</a>
-<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/3ad757437f9afe7f?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-  <img width="100"src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
-</a>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,sass&perline=10" />
 
+**Bancos de dados**
 
-# Last Update: 04/2024
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=10" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,vercel&perline=10" />
+
+</div>
+
+<!-- ============================== PROJETOS ============================== -->
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| ⚡ [**Quorum**](https://github.com/pedroamcerto/quorum-mobile) | Usina virtual de energia: prevê o pico das 18h30 e coordena baterias, carregadores e ar-condicionado do comércio de bairro pra evitar multa na conta de luz. *Global Solution FIAP 2026* | TypeScript · React Native · SQLite |
+| 🅿️ [**Detector de Vagas**](https://github.com/pedroamcerto/detector-de-vagas-estacionamento) | Visão computacional que detecta vagas livres de estacionamento em vídeo | Python · OpenCV |
+| 📡 [**Aurawave**](https://github.com/pedroamcerto/aurawave-service) | Gestão de materiais de laboratório em tempo real com RFID e sensores. Serviço principal + [reader](https://github.com/pedroamcerto/aurawave-reader), [writer](https://github.com/pedroamcerto/aurawave-writer) e [door](https://github.com/pedroamcerto/aurawave-door) em Python | Java · Spring · Python · IoT |
+| 🎓 [**NewHorizon**](https://github.com/pedroamcerto/newHorizon-service) | API de trilhas de aprendizagem e competências do futuro, alinhada aos ODS 4 e 8 da ONU | Java · Spring Boot |
+| 🐝 [**Hive**](https://github.com/pedroamcerto/hive-service) | Serviço back-end do projeto Hive | Java · Spring Boot |
+| 🗓️ [**Reservas**](https://github.com/pedroamcerto/ReservasService) | API de reserva de salas com bloqueio de conflito de horário | Java 21 · Spring · JPA |
+| 🎸 [**Guitar Classes**](https://guitar-classes.vercel.app) | Landing page de aulas de violão | SCSS · Vercel |
+
+<!-- ============================== CERTIFICAÇÕES ============================== -->
+
+## 🏅 Certificações
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/15634cab-df9a-46e5-8a23-6f5debe7cbee/public_url"><img width="110" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Solutions Architect Associate" /></a>
+<a href="https://www.credly.com/badges/31babe9b-4408-442f-a304-4f86b54b378b/public_url"><img width="110" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" alt="AWS Cloud Practitioner" /></a>
+<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/3ad757437f9afe7f"><img width="110" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" /></a>
+<a href="https://learn.microsoft.com/pt-br/users/pedroaugustomartinscerto-4373/credentials/bbca3f72c8faffa7"><img width="110" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" /></a>
+
+</div>
+
+<!-- ============================== STATS ============================== -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=pedroamcerto&hide_border=true&background=0d1117&stroke=8b0000&ring=ff1e3c&fire=ff1e3c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1e3c&sideLabels=ff6b7f&dates=8b949e" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroamcerto&bg_color=0d1117&color=ff1e3c&line=ff1e3c&point=ffffff&area=true&area_color=8b0000&hide_border=true" />
+
+</div>
+
+<!-- ============================== FOOTER ============================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1e3c,50:8b0000,100:0d1117&height=120&section=footer" />
